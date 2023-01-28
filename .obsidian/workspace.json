@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "8e4909d748495230",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1fbecc289d8e8f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec85e1398d8ed8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.python/note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "283d8de3f534cc46",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ccd6f6f2ab944c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36149a9c79c9ad0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebdc85ca07515df9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44c8edf2bfa7c316",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d7fb92355a3ff4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6759144e41c36d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b039cefe277dfb05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.python/note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d95ec41693b634a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.python/note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebf08420f1a25bc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83cfd08d0d395e22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.python/note.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "36149a9c79c9ad0b",
+  "lastOpenFiles": [
+    "2.串行通信协议/串行通信协议.md",
+    "2.串行通信协议/课件/Day6-1 SPI总线.pdf",
+    "2.串行通信协议/visio/IIC通信流程.png",
+    "3.python/note.md",
+    "Pasted image 20230127220637.png",
+    "未命名.md",
+    "().md",
+    "Pasted image 20230127150717.png",
+    "2.串行通信协议/课件/Day1-1 UART帧格式详解.pdf",
+    "README.md"
+  ]
+}
