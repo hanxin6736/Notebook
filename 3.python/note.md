@@ -232,3 +232,4 @@ Python中可以用于`for`循环中迭代的对象有两类
 
 第一类（集合数据类型）是可迭代对象`Iterable`，但不是迭代器`Iterator`。因为Python的`Iterator`对象表示的是一个数据流，Iterator对象可以被`next()`函数调用并不断返回下一个数据，直到没有数据时抛出`StopIteration`错误。
 `Iterable`对象可以通过`iter()`方法变成迭代器`Iterator`
+
