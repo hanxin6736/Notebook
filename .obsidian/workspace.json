@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fbecc289d8e8f6",
+        "id": "69b5bfec386f5291",
         "type": "tabs",
         "children": [
           {
-            "id": "ec85e1398d8ed8b2",
+            "id": "2ab6958c541d17f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.python/note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.python/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.python/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.python/note.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,14 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36149a9c79c9ad0b",
+  "active": "2ab6958c541d17f0",
   "lastOpenFiles": [
+    "3.python/note.md",
+    "4.单词/单词.md",
     "2.串行通信协议/串行通信协议.md",
     "2.串行通信协议/课件/Day6-1 SPI总线.pdf",
     "2.串行通信协议/visio/IIC通信流程.png",
-    "3.python/note.md",
     "Pasted image 20230127220637.png",
-    "未命名.md",
     "().md",
     "Pasted image 20230127150717.png",
     "2.串行通信协议/课件/Day1-1 UART帧格式详解.pdf",
